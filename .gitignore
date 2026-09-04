@@ -1,0 +1,17 @@
+# KiCad local history exclusions. Edit to add your own rules.
+fp-info-cache
+*-backups/
+
+# KiCad local .history folder.
+.history
+*.history
+*.history/
+
+
+CubeSat2030CAD/CubeSat2030_Research_and_Development_platform/v1/Electronics/i2c_expansion/
+.history
+CubeSat2030CAD/CubeSat2030_Research_and_Development_platform/v1/Electronics/i2c_expansion/
+.history
+
+*CubeSat2030CAD/CubeSat2030_Research_and_Development_platform/v1/Electronics/i2c_expansion/.history/
+*CubeSat2030CAD/CubeSat2030_Research_and_Development_platform/v1/Electronics/i2c_expansion/.history/

@@ -6,7 +6,7 @@ fp-info-cache
 .history
 *.history
 *.history/
-
+*.lck
 
 CubeSat2030CAD/CubeSat2030_Research_and_Development_platform/v1/Electronics/i2c_expansion/
 .history
